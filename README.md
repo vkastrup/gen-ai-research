@@ -5,5 +5,5 @@ Generative AI and Machine Learning research for visual effects and post producti
 
 
 --------
-##recent projects
+### recent projects
 https://www.baconproduction.com/articles/perfect-storm
